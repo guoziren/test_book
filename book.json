@@ -1,0 +1,26 @@
+{ 
+	"title":"mybook", 
+	"description": "mybook", 
+	"language": "zh-hans", 
+	"author": "lycguo@tencent.com",
+	"links":{
+		 "sidebar": {
+	            "我的官网": "http://www.guoziren.com"
+	      }
+
+	},
+	"plugins":[
+		"back-to-top-button", 
+		"expandable-chapters-small"
+	
+	],
+	"pluginsConfig": {
+              "fontSettings": {
+                      "family": "msyh",
+                      "size": 2
+              }
+    }
+
+
+
+}
